@@ -1,9 +1,5 @@
 import board
-import displayio
 import time
-import pulseio
-import touchio
-import os
 import neopixel
 
 # Colors
